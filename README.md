@@ -112,3 +112,79 @@
     </section>
 </body>
 </html>
+body{
+    font-family: sans-serif;
+    margin: 20px;
+    background: white;
+}
+
+h2{
+    text-align: center;
+    font-family: l;
+    margin-bottom: 20px;
+}
+
+.media-section {
+    margin: 30px 0;
+}
+
+.media-section h3 {
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.media-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    align-items: flex-start;
+    background-color:#7dd7a7;
+    border: 5px solid black;
+    border-radius: 20px;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.content{
+    background-color: transparent;
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+    box-sizing: border-box;
+    min-height: 220px;
+    width: 220px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    text-align: center;
+}
+
+.content h4 {
+    margin-top: 0;
+    color: rgb(14, 3, 3);
+    text-align: center;
+}
+
+.content img,
+.content video,
+.content audio {
+    width: 100%;
+    border: 5px solid black;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto 0;
+    object-fit: cover;
+}
+
+.content img {
+    height: 180px;
+}
+
+.content video {
+    background: #000;
+    min-height: 180px;
+}
+
+.content audio {
+    min-height: 50px;
+}
