@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MEDIDA INSERT</title>
-
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <h2>MEDIDA SOURCE</h2>
-    <hr>
 
     <section class="media-section">
         <h3>Photos</h3>
