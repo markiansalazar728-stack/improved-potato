@@ -1,115 +1,67 @@
+# MEDIDA SOURCE
 
-    <link rel="stylesheets"href="style(1).css>
-    <section class="media-section">
-        <h3>Photos</h3>
-        <div class="media-grid">
-            <div class="content">
-                <h4>TOKYO</h4>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1CGif0-dasbC5O_09q1C1MN7Kr-ZLs-i0-qScuH-B2FtLptgl5Jj39Q4&s=10" alt="Photo 1">
-            </div>
-            <div class="content">
-                <h4>SWITZERLAND</h4>
-                <img src="https://media.bookmundi.com/tour/highlights-of-switzerland-in-eleven-days-520313-1594020708.jpg?format=auto&quality=60&width=1772" alt="Photo 2">
-            </div>
-            <div class="content">
-                <h4>NETHERLANDS</h4>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfozeiLD--7oEj43jJdZrNWkt1lq1Bw-CuM6q2MT-C5ZGO9u-ku6C5OlL&s=10" alt="Photo 3">
-            </div>
-            <div class="content">
-                <h4>BATANES</h4>
-                <img src="https://upd.edu.ph/wp-content/uploads/2023/07/Batanes-1-1536x1023.jpg" alt="Photo 4">
-            </div>
-            <div class="content">
-                <h4>KOREA</h4>
-                <img src="https://i.natgeofe.com/n/0f550dab-11fc-460e-a39b-030b6e5cbf06/practicalguide.jpg" alt="Photo 5">
-            </div>
-        </div>
-    </section>
+## About the Project
 
-    <section class="media-section">
-        <h3>Audio</h3>
-        <div class="media-grid">
-            <div class="content">
-                <h4>Audio 1</h4>
-                <p>🎵Saksi Ang Langit 
-                -December Avenue</p>
-                <audio controls>
-                    <source src="file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/Sample project - Acme/Saksi Ang Langitt.mp4" type="audio/mp4">
-                </audio>
-            </div>
-            <div class="content">
-                <h>🎵SUPER FAR 
-                - LANY</h4>
-                <audio controls>
-                    <source src="file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/Sample project - Acme/Super Far.mp4" type="audio/mp4">
-                </audio>
-            </div>
-            <div class="content">
-                <h4>Audio 3</h4>
-                <p>🎵Ikot-Over October</p>
-                <audio controls>
-                    <source src="file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/Sample project - Acme/Ikot.mp4" type="audio/mp4">
-                </audio>
-            </div>
-            <div class="content">
-                <h4>Audio 4</h4>
-                <p>🎵Heaven knows 
-               - Skate Avenue</p>
-                <audio controls>
-                    <source src="file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/Sample project - Acme/Heaven Knows.mp4" type="audio/mp4">
-                </audio>
-            </div>
-            <div class="content">
-                <h4>Audio 5</h4>
-                <p>🎵Bakit Ganito
-                 - Ylona Garcia</p>
-                <audio controls>
-                    <source src="file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/Sample project - Acme/Falling For U Agian.mp4" type="audio/mp4">
-                </audio>
-            </div>
-        </div>
-    </section>
+MEDIDA SOURCE is a simple multimedia webpage created using HTML and CSS. It contains a collection of photos, audio files, and favorite video clips.
 
-    <section class="media-section">
-        <h3>Favorite Video Clips</h3>
-        <div class="media-grid">
-            <div class="content">
-                <h4>Video 1</h4>
-                <p>Falling For U Again</p>
-                <video controls>
-                    <source src="file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/Sample project - Acme/Falling For U Again.mp4" type="video/mp4">
-                </video>
-            </div>
-            <div class="content">
-            
-                <h4>Video 2</h4>
-                <p>Never Fall In Love</p>
-                <video controls>
-                    <source src="file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/Sample project - Acme/I Never Fall In love.mp4" type="video/mp4">
-                </video>
-            </div>
-            <div class="content">
-                <h4>Video 3</h4>
-                <p>Lazy Song</p>
-                <video controls>
-                    <source src="file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/Sample project - Acme/Lazy Song.mp4"type="video/mp4"
-                </video>
-            </div>
-            <div class="content">
-                <h4>Video 4</h4>
-                <p> Bakit Ganito</p>
-                <video controls>
-                    <source src= "file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/Sample project - Acme/Falling For U Agian.mp4"type="video/mp4">
-                </video>
-            </div>
-            <div class="content">
-                <h4>Video 5</h4>
-                <p>Tell Me Why</p>
-                <video controls>
-                    <source src="file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/Sample project - Acme/Tell Me Why.mp4"type="video/mp4">
-                </video>
-            </div>
-        </div>
-    </section>
-</body>
-</html>
+## Features
+
+* 📷 Photo collection
+* 🎵 Audio collection
+* 🎬 Favorite video clips
+* 💻 Responsive webpage design
+* 🎨 CSS-styled layout
+
+## Technologies Used
+
+* HTML5
+* CSS3
+
+## Media Sections
+
+### Photos
+
+The website contains photos featuring:
+
+* Tokyo
+* Switzerland
+* Netherlands
+* Batanes
+* Korea
+
+### Audio
+
+The website contains a collection of audio files.
+
+### Favorite Video Clips
+
+The website contains selected video clips that can be played directly on the webpage.
+
+## Project Structure
+
+```text
+MEDIDA-SOURCE/
+│
+├── index.html
+├── style.css
+├── README.md
+│
+├── audio files
+└── video files
+```
+
+## How to Run
+
+1. Download or clone the repository.
+2. Make sure `index.html`, `style.css`, and the media files are in the correct location.
+3. Open `index.html` using a web browser.
+
+## GitHub Pages
+
+This project can be hosted using GitHub Pages so that the webpage can be accessed online.
+
+## Author
+
+**MEDIDA SOURCE**
+
+A simple multimedia web project created for educational purposes.
