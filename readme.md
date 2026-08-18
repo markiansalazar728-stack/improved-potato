@@ -1,5 +1,5 @@
 
-
+    <link rel="stylesheets"href="style(1).css>
     <section class="media-section">
         <h3>Photos</h3>
         <div class="media-grid">
