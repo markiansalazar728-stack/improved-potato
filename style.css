@@ -61,10 +61,17 @@ hr{border:0;height:2px;background:var(--border);margin:16px auto 32px;max-width:
 
 .content img{width:100%;height:160px;object-fit:cover;border-radius:8px;border:1px solid #f1f5f9}
 
-.content audio, .content video{
+.content audio{
   width:100%;
-  margin-top:auto; /* push media controls to the bottom when possible */
+  margin-top:auto;
   height:48px;
+}
+
+.content video{
+  width:100%;
+  height:240px;
+  margin-top:auto;
+  border-radius:8px;
 }
 
 /* Make audio/video controls visible and slightly larger on touch devices */
@@ -79,5 +86,6 @@ hr{border:0;height:2px;background:var(--border);margin:16px auto 32px;max-width:
   .media-grid{grid-template-columns:1fr;gap:16px}
   .content{min-height:180px;padding:12px}
   .content img{height:120px}
-  .content audio, .content video{height:40px}
+  .content audio{height:40px}
+  .content video{height:180px}
 }
